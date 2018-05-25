@@ -34,7 +34,7 @@
                         <barButtonItem key="backBarButtonItem" title="Terug" id="Vuh-F7-5U5"/>
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="vtc-Xa-1dV">
                             <connections>
-                                <action selector="plusTapped:" destination="BYZ-38-t0r" id="DkL-jN-sSV"/>
+                                <action selector="plusTapped:" destination="BYZ-38-t0r" id="L5R-1U-WpO"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
