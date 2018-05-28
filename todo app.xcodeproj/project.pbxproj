@@ -15,6 +15,7 @@
 		73260DDA20B8534A00336AAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73260DD820B8534A00336AAB /* LaunchScreen.storyboard */; };
 		73260DE220B8566C00336AAB /* task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73260DE120B8566C00336AAB /* task.swift */; };
 		73260DE420B85C4C00336AAB /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73260DE320B85C4C00336AAB /* CreateTaskViewController.swift */; };
+		73E74E2420BC3B5C000EB72F /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E74E2320BC3B5B000EB72F /* CompleteTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		73260DDB20B8534A00336AAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73260DE120B8566C00336AAB /* task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = task.swift; sourceTree = "<group>"; };
 		73260DE320B85C4C00336AAB /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
+		73E74E2320BC3B5B000EB72F /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				73260DCC20B8534A00336AAB /* AppDelegate.swift */,
 				73260DCE20B8534A00336AAB /* ViewController.swift */,
+				73E74E2320BC3B5B000EB72F /* CompleteTaskViewController.swift */,
 				73260DE320B85C4C00336AAB /* CreateTaskViewController.swift */,
 				73260DE120B8566C00336AAB /* task.swift */,
 				73260DD020B8534A00336AAB /* Main.storyboard */,
@@ -147,6 +150,7 @@
 			files = (
 				73260DE220B8566C00336AAB /* task.swift in Sources */,
 				73260DD520B8534A00336AAB /* todo_app.xcdatamodeld in Sources */,
+				73E74E2420BC3B5C000EB72F /* CompleteTaskViewController.swift in Sources */,
 				73260DCF20B8534A00336AAB /* ViewController.swift in Sources */,
 				73260DCD20B8534A00336AAB /* AppDelegate.swift in Sources */,
 				73260DE420B85C4C00336AAB /* CreateTaskViewController.swift in Sources */,
@@ -311,6 +315,7 @@
 				73260DE020B8534A00336AAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
